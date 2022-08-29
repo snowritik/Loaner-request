@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_711602_loner_req.loaner_request_user" name="x_711602_loner_req.loaner_request_user">6e152eaa9725111048f8732e6253aff9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 11:54:34</sys_created_on>
+        <sys_id>b2152eaa9725111048f8732e6253affd</sys_id>
+        <sys_name>6e152eaa9725111048f8732e6253aff9</sys_name>
+        <sys_package display_value="Loner Request" source="x_711602_loner_req">7ff4aaea9725111048f8732e6253af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request">7ff4aaea9725111048f8732e6253af3e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b2152eaa9725111048f8732e6253affd</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
