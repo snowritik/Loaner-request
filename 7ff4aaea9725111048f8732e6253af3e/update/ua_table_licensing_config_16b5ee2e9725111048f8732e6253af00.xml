@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_711602_loner_req_loaner_request</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-29 11:57:16</sys_created_on>
+        <sys_id>16b5ee2e9725111048f8732e6253af00</sys_id>
+        <sys_name>x_711602_loner_req_loaner_request</sys_name>
+        <sys_package display_value="Loner Request" source="x_711602_loner_req">7ff4aaea9725111048f8732e6253af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loner Request">7ff4aaea9725111048f8732e6253af3e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_16b5ee2e9725111048f8732e6253af00</sys_update_name>
+    </ua_table_licensing_config>
+</record_update>
